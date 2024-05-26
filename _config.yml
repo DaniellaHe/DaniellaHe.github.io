@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "she/her"  
+  bio              : "Master Student in SYSU."
+  location         : "Shenzhen, China"
+  employer         : "Sun Yat-sen University"
   uri              : # URL
   email            : "none@example.org" 
 
