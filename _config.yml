@@ -21,7 +21,7 @@ repository               : "DaniellaHe/DaniellaHe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "files/profile.jpg"
   name             : "Shidan He"
   pronouns         : "she/her"  
   bio              : "Master Student in SYSU."
