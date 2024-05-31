@@ -17,3 +17,6 @@ Publications
 
 Honors and Awards
 ======
+* 2023.06 **Outstanding Graduate** of Harbin Institute of Technology (**6%**)
+* 2021.12 **Meritorious Winner** in The Mathematical Contest in Modeling
+* 2020.05 **First Prize** in Heilongjiang Province in The Chinese Mathematics Competitions
