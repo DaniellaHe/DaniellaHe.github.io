@@ -18,17 +18,17 @@ I am currently working as a research intern at **WeChat Pay (Tencent)**, focusin
 
 # 🔥 News
 
-- *2025.08*: &nbsp; [AnomalyControl](https://arxiv.org/abs/2306.08659) is released on arXiv, and the [Code](https://github.com/daniellahe/Point-In-Context) is also open-sourced. 
-- *2025.05*: &nbsp; [MedSoft-Diffusion](https://arxiv.org/abs/2401.08210) is early accepted (top 9%) by **MICCAI'2025**. 🎉🎉🎉
-- *2025.05*: &nbsp; [MIBF-Net](https://arxiv.org/abs/2312.03703) is early accepted (top 9%) by **MICCAI'2025**. 🎉🎉🎉
+- *2025.08* &nbsp; [AnomalyControl](https://arxiv.org/abs/2306.08659) is released on arXiv, and the [Code](https://github.com/daniellahe/Point-In-Context) is also open-sourced. 
+- *2025.05* &nbsp; [MedSoft-Diffusion](https://arxiv.org/abs/2401.08210) is early accepted (top 9%) by **MICCAI'2025**. 🎉🎉🎉
+- *2025.05* &nbsp; [MIBF-Net](https://arxiv.org/abs/2312.03703) is early accepted (top 9%) by **MICCAI'2025**. 🎉🎉🎉
 
 # 📖 Publications
 
 
 # ⭐ Honors and Awards
 
-* 2023.06 **Outstanding Graduate** of Harbin Institute of Technology (top 6%)
+- *2023.06* &nbsp; **Outstanding Graduate** of Harbin Institute of Technology (top 6%)
 - *2022.06* &nbsp; The **First Prize Scholarship** of Harbin Institute of Technology (top 10%)
-* 2021.12 **Meritorious Winner** in The Mathematical Contest in Modeling (top 10%)
-* 2020.05 **First Prize** in Heilongjiang Province in The Chinese Mathematics Competitions (top 5%)
+- *2021.12* &nbsp; **Meritorious Winner** in The Mathematical Contest in Modeling (top 10%)
+- *2020.05* &nbsp; **First Prize** in Heilongjiang Province in The Chinese Mathematics Competitions (top 5%)
 - *2020.06* &nbsp; The **First Prize Scholarship** of Harbin Institute of Technology (top 10%)
