@@ -22,7 +22,7 @@ I am currently working as a research intern at **WeChat Pay (Tencent)**, focusin
 - *2025.05* &nbsp; [MedSoft-Diffusion](https://arxiv.org/abs/2401.08210) is early accepted (top 9%) by **MICCAI'2025**. 🎉🎉🎉
 - *2025.05* &nbsp; [MIBF-Net](https://arxiv.org/abs/2312.03703) is early accepted (top 9%) by **MICCAI'2025**. 🎉🎉🎉
 
-# 📖 Publications
+<!-- # 📖 Publications -->
 
 
 # ⭐ Honors and Awards
