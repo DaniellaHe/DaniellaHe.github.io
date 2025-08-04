@@ -27,8 +27,9 @@ I am currently working as a research intern at **WeChat Pay (Tencent)**, focusin
 
 # ⭐ Honors and Awards
 
-- *2023.06* &nbsp; **Outstanding Graduate** of Harbin Institute of Technology (top 6%)
-- *2022.06* &nbsp; The **First Prize Scholarship** of Harbin Institute of Technology (top 10%)
-- *2021.12* &nbsp; **Meritorious Winner** in The Mathematical Contest in Modeling (top 10%)
-- *2020.05* &nbsp; **First Prize** in Heilongjiang Province in The Chinese Mathematics Competitions (top 5%)
-- *2020.06* &nbsp; The **First Prize Scholarship** of Harbin Institute of Technology (top 10%)
+- *2023.06* &nbsp; Selected as **an Outstanding Graduate** of Harbin Institute of Technology (top 6%)
+- *2022.06* &nbsp; Awarded the **First Prize Scholarship** of Harbin Institute of Technology (top 10%)
+- *2021.12* &nbsp; **Meritorious Winner** in the Mathematical Contest in Modeling (top 10%)
+- *2020.05* &nbsp; **First Prize** in the Chinese Mathematics Competitions (Heilongjiang Province, top 5%)
+- *2020.06* &nbsp; Awarded the **First Prize Scholarship** of Harbin Institute of Technology (top 10%)
+
