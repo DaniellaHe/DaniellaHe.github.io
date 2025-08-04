@@ -9,7 +9,7 @@ redirect_from:
 ---
 # 😊 Biography
 
-I am now a second-year master’s student at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by Prof. [Shen Zhao](https://ise.sysu.edu.cn/teacher/teacher02/1372092.htm). 
+I am now a second-year master’s student at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by Prof. [Shen Zhao](https://ise.sysu.edu.cn/teacher/ZhaoShen). 
 Previously, I received my Bachelor's degree from the [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2023 (ranked 3rd out of 30, GPA: 3.96/4.0), majoring in **Artificial Intelligence**.
 
 My research focuses on **Diffusion Models** and **Medical Image Analysis**. 
