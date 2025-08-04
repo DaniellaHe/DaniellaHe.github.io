@@ -18,9 +18,9 @@ I am currently working as a research intern at **WeChat Pay (Tencent)**, focusin
 
 # 🔥 News
 
-- *2025.08* &nbsp;  AnomalyControl has been released on arXiv, and the code has also been open-sourced.
-- *2025.05* &nbsp; [MedSoft-Diffusion](https://arxiv.org/abs/2401.08210) was early accepted to **MICCAI 2025** (top 9%). 🎉🎉🎉
-- *2025.05* &nbsp; [MIBF-Net](https://arxiv.org/abs/2312.03703) was early accepted to **MICCAI 2025** (top 9%). 🎉🎉🎉
+- *2025.08* &nbsp;  **AnomalyControl** has been released on arXiv, and the code has also been open-sourced.
+- *2025.05* &nbsp; **MedSoft-Diffusion** was early accepted to **MICCAI 2025** (top 9%). 🎉🎉🎉
+- *2025.05* &nbsp; **MIBF-Net** was early accepted to **MICCAI 2025** (top 9%). 🎉🎉🎉
 
 <!-- # 📖 Publications -->
 
