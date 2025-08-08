@@ -14,7 +14,7 @@ Previously, I received my Bachelor's degree from the [Harbin Institute of Techno
 
 My research focuses on **Diffusion Models** and **Medical Image Analysis**. 
 
-I am currently working as a research intern at **WeChat Pay (Tencent)**, focusing on applied machine learning.
+I am currently working as a research intern at **WeChat Pay (Tencent)**, focusing on Applied AI.
 
 # 🔥 News
 
