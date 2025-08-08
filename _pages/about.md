@@ -18,7 +18,7 @@ I am currently working as a research intern at **WeChat Pay (Tencent)**, focusin
 
 # 🔥 News
 
-- *2025.08* &nbsp;  **AnomalyControl** has been released on arXiv, and the code has also been open-sourced.
+- *2025.08* &nbsp; **AnomalyControl** has been released on arXiv, and the code has also been open-sourced.
 - *2025.05* &nbsp; **MedSoft-Diffusion** was early accepted to **MICCAI 2025** (top 9%). 🎉🎉🎉
 - *2025.05* &nbsp; **MIBF-Net** was early accepted to **MICCAI 2025** (top 9%). 🎉🎉🎉
 
@@ -30,6 +30,6 @@ I am currently working as a research intern at **WeChat Pay (Tencent)**, focusin
 - *2023.06* &nbsp; Selected as **an Outstanding Graduate** of Harbin Institute of Technology (top 6%)
 - *2022.06* &nbsp; Awarded the **First Prize Scholarship** of Harbin Institute of Technology (top 10%)
 - *2021.12* &nbsp; **Meritorious Winner** in the Mathematical Contest in Modeling (top 10%)
-- *2020.05* &nbsp; **First Prize** in the Chinese Mathematics Competitions (Heilongjiang Province, top 5%)
+- *2021.05* &nbsp; **First Prize** in the Chinese Mathematics Competitions (Heilongjiang Province, top 5%)
 - *2020.06* &nbsp; Awarded the **First Prize Scholarship** of Harbin Institute of Technology (top 10%)
 
